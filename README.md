@@ -68,7 +68,8 @@ The results obtained using **PolyMRNM** were validated against simulations perfo
 ---
 
 ## Screenshots
-
+**Configuration Interface:**
+![Config](./screenshots/main.png)
 **Meshing Interface:**
 ![Meshing](./meshing2.png)
 
