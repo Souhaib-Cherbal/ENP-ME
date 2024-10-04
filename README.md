@@ -71,14 +71,22 @@ The results obtained using **PolyMRNM** were validated against simulations perfo
 **Configuration Interface:**
 ![Config](./screenshots/main.png)
 ![Config](./screenshots/main2.png)
-**Meshing Interface:**
-![Meshing](./meshing2.png)
 
-**Flux Distribution Heat Map:**
-![Flux Heatmap](./flux.png)
+**Meshing Interface:**
+![Meshing](./screenshots/meshing1.png)
+![Meshing](./screenshots/meshing2.png)
+
+**FMM Distribution Heat Map:**
+![FMM Heatmap](./screenshots/FMM.png)
 
 **Potential Distribution Heat Map:**
-![Potential Heatmap](./potenstiel.png)
+![Potential Heatmap](./screenshots/potenstiel.png)
+
+**Flux Distribution Heat Map:**
+![Flux Heatmap](./screenshots/flux.png)
+
+**Induction Distribution Heat Map:**
+![Induction Heatmap](./screenshots/induction.png)
 
 ---
 
@@ -87,14 +95,14 @@ The results obtained using **PolyMRNM** were validated against simulations perfo
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/enp-me.git
+   git clone https://github.com/Souhaib-Cherbal/ENP-ME.git
    cd enp-me
    ```
 
 2. Install the required Python packages using pip:
 
    ```bash
-   pip install -r requirements.txt
+   pip install numpy PyQt5 matplotlib
    ```
 
 3. Run the application:
