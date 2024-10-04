@@ -66,6 +66,10 @@ While the **Finite Element Method (FEM)** is widely recognized for its high accu
 The results obtained using **PolyMRNM** were validated against simulations performed in **FEMM** (Finite Element Method Magnetics) software. The comparison of the flux distribution results showed a strong correlation, confirming the accuracy of the MRNM approach for practical use in electrical machine design.
 
 ---
+### Installation Steps:
+1. Download the `ENP ME Setup.exe` file from the [releases page](https://drive.google.com/drive/folders/1vZUy9QCMTjIEPY_cZ-8xTIT0Q9Tl16DA?usp=sharing).
+2. Run the installer and follow the on-screen instructions.
+3. Once installed, launch ENP RE from your desktop or start menu.
 
 ## Screenshots
 **Configuration Interface:**
