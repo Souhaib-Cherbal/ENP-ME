@@ -72,6 +72,9 @@ The results obtained using **PolyMRNM** were validated against simulations perfo
 3. Once installed, launch ENP RE from your desktop or start menu.
 
 ## Screenshots
+**Installation:***
+![setup](./screenshots/setup.png)
+
 **Configuration Interface:**
 ![Config](./screenshots/main.png)
 ![Config](./screenshots/main2.png)
